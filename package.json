@@ -9,6 +9,6 @@
   "author": "Gabriel Hauschildt",
   "license": "ISC",
   "dependencies": {
-    "react-three-fiber": "^5.3.19"
+    "gltf-pipeline": "^3.0.2"
   }
 }
